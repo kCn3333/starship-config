@@ -2,7 +2,7 @@
 
 add_newline = false
 command_timeout = 1000
-format = """$time$username$os$hostname$kubernetes$directory$git_branch$git_status"""
+format = """ $time $username$os$hostname$kubernetes$directory$git_branch$git_status"""
 
 # Drop ugly default prompt characters
 [character]
